@@ -73,6 +73,6 @@ QA Manual Jr con experiencia práctica en pruebas funcionales de aplicaciones we
 ---
 
 ## 📫 Contacto
-- LinkedIn: [Link]
-- Email: [Email]
+- LinkedIn: [https://www.linkedin.com/in/alejandrabanda/]
+- Email: [alexabandap2@gmail.com]
 
