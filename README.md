@@ -25,8 +25,7 @@ QA Manual Jr con experiencia práctica en pruebas funcionales de aplicaciones we
 - Validación de métodos de pago
 - Reporte de bugs
 
-📄 Casos de prueba: [Google Sheets]  
-🐞 Bugs reportados: [Google Sheets]
+📄 Casos de prueba y bugs reportados: [https://docs.google.com/spreadsheets/d/1j7M2TQRy1-xb9a_seMv8YFFH5SPtAsA9/edit?usp=sharing&ouid=113903494517592790652&rtpof=true&sd=true]  
 
 ---
 
