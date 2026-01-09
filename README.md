@@ -20,30 +20,27 @@ QA Manual Jr con experiencia práctica en pruebas funcionales de aplicaciones we
 ### 🚗 Urban Routes — QA Manual (Web)
 <img src="https://via.placeholder.com/800x300?text=Urban+Routes+Web+App" />
 
-Urban Routes — QA Manual (Web & App móvil)
+## Urban Routes — QA Manual (Web & App móvil)
 
-Contexto
+**Contexto**  
 Aplicación de transporte con lógica de cálculo de tarifas, tiempos de viaje y flujo de reserva.
 
-Mi rol
+**Mi rol**  
 QA Manual a cargo de pruebas funcionales y validación de flujos críticos.
 
-Qué hice
+**Qué hice**  
+- Diseñé y ejecuté casos de prueba para cálculo de costos, tiempos y reservas.  
+- Realicé pruebas de diseño y métodos de pago.  
+- Probé flujos web y app móvil usando Android Studio.  
+- Reporté defectos en Jira.  
+- Implementé automatización funcional básica para flujos clave.
 
-Diseñé y ejecuté casos de prueba para cálculo de costos, tiempos y reservas.
-
-Realicé pruebas de diseño y métodos de pago.
-
-Probé flujos web y app móvil usando Android Studio.
-
-Reporté defectos en Jira.
-
-Implementé automatización funcional básica para flujos clave.
-
-Resultado
+**Resultado**  
 Se detectaron errores en cálculos, reservas y validaciones de pago, fortaleciendo la calidad antes de liberación.
-📄 Casos de prueba y bugs reportados: [https://docs.google.com/spreadsheets/d/1dUvQbGUGmc1LDtYWJrE7zVPLSvu4bxp0/edit?usp=sharing&ouid=114762453086558681184&rtpof=true&sd=true https://docs.google.com/spreadsheets/d/1j7M2TQRy1-xb9a_seMv8YFFH5SPtAsA9/edit?usp=sharing&ouid=113903494517592790652&rtpof=true&sd=true]  
 
+
+📄 Casos de prueba y bugs reportados: [https://docs.google.com/spreadsheets/d/1dUvQbGUGmc1LDtYWJrE7zVPLSvu4bxp0/edit?usp=sharing&ouid=114762453086558681184&rtpof=true&sd=true https://docs.google.com/spreadsheets/d/1j7M2TQRy1-xb9a_seMv8YFFH5SPtAsA9/edit?usp=sharing&ouid=113903494517592790652&rtpof=true&sd=true]  
+- Automatización: [https://github.com/alexabandap/qa-project-Urban-Routes-es]
 ---
 
 ### 🛒 Urban Grocers — API Testing
