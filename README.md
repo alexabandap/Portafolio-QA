@@ -10,8 +10,23 @@
 
 ---
 
-## 👋 Sobre mí
-QA Manual Jr con experiencia práctica en pruebas funcionales de aplicaciones web, app móvil y APIs. He trabajado en proyectos de transporte, e-commerce y delivery, diseñando y ejecutando casos de prueba, listas de comprobación y reportes de defectos, así como validación de datos mediante consultas SQL básicas.
+# Portfolio | Alejandra Banda | QA Manual Jr
+
+👋 Hola, soy **Alejandra Banda**, QA Manual Junior con experiencia práctica en pruebas funcionales de aplicaciones web, app móvil y APIs.
+
+Este portfolio reúne proyectos donde he trabajado en:
+- Diseño y ejecución de casos de prueba
+- Listas de comprobación y pruebas de regresión
+- Reporte de defectos en Jira
+- Pruebas de API con Postman
+- Validaciones básicas con SQL
+- Automatización funcional básica con Selenium
+
+📌 Todos los proyectos tienen fines demostrativos y reflejan mi forma de analizar, documentar y validar la calidad del software.
+
+🔗 **Contacto**
+- LinkedIn: https://linkedin.com/in/alejandrabanda
+- GitHub:(https://github.com/alexabandap/)
 
 ---
 
@@ -19,8 +34,6 @@ QA Manual Jr con experiencia práctica en pruebas funcionales de aplicaciones we
 
 ### 🚗 Urban Routes — QA Manual (Web)
 <img src="https://via.placeholder.com/800x300?text=Urban+Routes+Web+App" />
-
-## Urban Routes — QA Manual (Web & App móvil)
 
 **Contexto**  
 Aplicación de transporte con lógica de cálculo de tarifas, tiempos de viaje y flujo de reserva.
@@ -46,34 +59,64 @@ Se detectaron errores en cálculos, reservas y validaciones de pago, fortalecien
 ### 🛒 Urban Grocers — API Testing
 <img src="https://via.placeholder.com/800x300?text=Urban+Grocers+API+Testing" />
 
-- 43 casos de prueba API
-- Pruebas CRUD con Postman
-- 33 defectos reportados
+**Contexto**  
+Plataforma de e-commerce enfocada en pedidos y gestión de productos. El objetivo fue validar el correcto funcionamiento de los endpoints de la API.
 
-📄 Casos de prueba API: [Google Sheets]
+**Mi rol**  
+QA Manual responsable de pruebas de API y validación de reglas de negocio.
+
+**Qué hice**  
+- Diseñé y ejecuté **43 casos de prueba** sobre distintos endpoints REST.
+- Validé estructura de respuestas JSON y códigos de estado.
+- Detecté y documenté **33 defectos** utilizando Jira.
+- Verifiqué reglas de negocio mediante pruebas negativas y de borde.
+
+**Resultado**  
+Se identificaron errores en validaciones y manejo de datos, contribuyendo a mejorar la estabilidad de la API antes de su uso en producción.
+
+
+📄 Casos de prueba API: https://docs.google.com/spreadsheets/d/1D6yrMs5ydcfmEkzN7AzzuItjnJ18Z_pt/edit?usp=sharing&ouid=113903494517592790652&rtpof=true&sd=true
 
 ---
 
-### 🍔 Urban Lunch — QA Manual (App móvil)
+
+## Urban Lunch — QA Manual (App móvil / SQL / Automation)
 <img src="https://via.placeholder.com/800x300?text=Urban+Lunch+Mobile+App" />
 
-- Pruebas funcionales en app móvil
-- Testing en Android Studio
-- 40 pruebas ejecutadas / 4 bugs detectados
+**Contexto**  
+Aplicación de delivery enfocada en pedidos desde app móvil. El objetivo fue validar flujos principales y estabilidad de la aplicación.
 
-📄 Checklist y casos de prueba: [Google Sheets]
+**Mi rol**  
+QA Manual responsable de pruebas funcionales en app móvil y validación de datos.
+
+**Qué hice**  
+- Ejecuté **40 pruebas funcionales** en app móvil usando Android Studio.
+- Detecté y documenté **4 bugs** funcionales y de interfaz.
+- Realicé consultas **SQL básicas** para análisis de logs y datos.
+- Implementé automatización funcional básica para validar la creación y funcionamiento de un kit de usuario.
+
+**Resultado**  
+Se detectaron errores en flujos clave y se fortaleció la validación funcional antes de liberación.
 
 ---
 
-### 🤖 Automatización — Selenium
-<img src="https://via.placeholder.com/800x300?text=Selenium+Automation" />
+## Urban Scooter — Proyecto Integrador QA Manual
 
-- Automatización de flujos funcionales
-- Validación de creación y funcionamiento de usuario
+**Contexto**  
+Aplicación de renta de scooters eléctricos. Proyecto integrador enfocado en validar flujos completos del usuario antes de liberación.
 
-💻 Repositorio: [GitHub]
+**Mi rol**  
+QA Manual responsable de la validación funcional de la aplicación.
 
----
+**Qué hice**  
+- Analicé requisitos y flujos principales del sistema.  
+- Diseñé y ejecuté casos de prueba funcionales y de regresión.  
+- Probé escenarios críticos de uso y manejo de errores.  
+- Documenté defectos y observaciones durante el proceso de prueba.
+
+**Resultado**  
+El proyecto permitió validar el funcionamiento integral de la aplicación y consolidar e proceso de testing de extremo a extremo.
+
 
 ### 🛠️ Herramientas
 - Jira
